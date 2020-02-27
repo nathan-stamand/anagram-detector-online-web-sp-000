@@ -6,7 +6,7 @@ class Anagram
   end
   
   def match(word)
-    
+    puts word
   end 
   
 end 
