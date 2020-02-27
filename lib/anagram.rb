@@ -5,5 +5,7 @@ class Anagram
     @word = word.split.sort
   end
   
+  def match(list)
+    
   
 end 
